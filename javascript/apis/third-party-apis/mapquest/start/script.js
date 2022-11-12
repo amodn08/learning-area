@@ -1,4 +1,4 @@
-L.mapquest.key = 'YOUR-API-KEY-HERE';
+L.mapquest.key = 'L0Tq06IVCkvuF7ZGroGy92qt7tTx6woo';
 
 // 'map' refers to a <div> element with the ID map
 const map = L.mapquest.map('map', {
